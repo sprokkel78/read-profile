@@ -17,3 +17,5 @@
 I Love Everyone, even you! <3 
 
 I want friend and enemy at the same table.
+
+A negative aproach always leads to a negative result.
