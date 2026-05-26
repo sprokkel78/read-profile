@@ -21,3 +21,8 @@ I want friend and enemy at the same table.
 A negative approach always leads to a negative result.(=, if you like math)
 
 We're going back to the early 90's.(prediction)
+
+'''
+Offtopic:
+Use fail2ban when hosting ssh servers
+'''
