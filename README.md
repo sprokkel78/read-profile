@@ -15,3 +15,5 @@
 2026/05 - Locked out of Instagram Account sprokkel78b. Bye Instagram! Bye social media! Ask Instagram to give me my account back. Everyone dress up in pink and blue! I fight back with the power of love!
 
 I Love Everyone, even you! <3 
+
+I want friend and enemy at the same table.
