@@ -24,7 +24,7 @@ A negative approach always leads to a negative result.(=, if you like math)
 
 We're going back to the early 90's.(prediction)
 
-
+Please remain calm, and relax a bit. It's going to be oke.
 
 
 
