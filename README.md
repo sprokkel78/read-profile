@@ -1,4 +1,4 @@
-# read-profile
+# read-profile -> Bart Janssen (sprokkel78)
 
 ![Screenshot](https://github.com/sprokkel78/read-profile/blob/main/HouseofPL.png)
 
