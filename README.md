@@ -6,6 +6,8 @@
 
 Bart Janssen. 11/03/1978. Belgium. I'm on IRC libera. channel #linux. Nickname sprokkel. I'm waiting ...
 
+Keep in mind, thanks to my diagnose i still feel like a child even tho i'm 48.
+
 2026/05 - I haven't done a single crime in 48 years on this planet. My crime record is empty. So are my traffic infractions. THOSE WHO ARE INNOCENT WALK FREE! I grow one weed-plant for medicinal uses. It's an F1 Hybrid. It's allowed by my doctor.
 
 2026/05 - SECURE YOUR NETWORKS, use a VPN! PROTECT YOUR PRIVACY!
