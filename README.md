@@ -2,7 +2,9 @@
 
 ![Screenshot](https://github.com/sprokkel78/read-profile/blob/main/HouseofPL.png)
 
-- (Dedicated to people living with anxiety_) -> see Instagram: Sprokkel78b
+.
+
+- DEDICATED TO PEOPLE LIVING WITH ANXIETY -> see Instagram: Sprokkel78b
 
 - Bart Janssen. 11/03/1978. Belgium. I'm on IRC libera. channel #linux. Nickname sprokkel. I'm waiting ...
 
