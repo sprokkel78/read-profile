@@ -59,3 +59,5 @@ $sudo iptables -I OUTPUT -p tcp --dport 123 -j DROP
 .
 
 THOSE WHO ARE INNOCENT WALK FREE! I choose to be a good person on this planet.
+
+EOF (End Of File)
