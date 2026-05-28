@@ -2,11 +2,17 @@
 
 ![Screenshot](https://github.com/sprokkel78/read-profile/blob/main/HouseofPL.png)
 
-(Dedicated to people living with anxiety_) -> see Instagram: Sprokkel78b
+- (Dedicated to people living with anxiety_) -> see Instagram: Sprokkel78b
 
-Bart Janssen. 11/03/1978. Belgium. I'm on IRC libera. channel #linux. Nickname sprokkel. I'm waiting ...
+- Bart Janssen. 11/03/1978. Belgium. I'm on IRC libera. channel #linux. Nickname sprokkel. I'm waiting ...
 
-Keep in mind, thanks to my diagnose i still feel like a child even tho i'm 48. I'm scared of grown-ups.
+- Keep in mind, thanks to my diagnose i still feel like a child even tho i'm 48. I'm scared of grown-ups.
+
+.
+
+Github-LOG
+
+.
 
 2026/05 - I haven't done a single crime in 48 years on this planet. My crime record is empty. So are my traffic infractions. THOSE WHO ARE INNOCENT WALK FREE! I grow one weed-plant for medicinal uses. It's an F1 Hybrid. It's allowed by my doctor.
 
@@ -20,6 +26,8 @@ Keep in mind, thanks to my diagnose i still feel like a child even tho i'm 48. I
 
 2026/05 - Locked out of Instagram Account sprokkel78b. Bye Instagram! Bye social media! Ask Instagram to give me my account back. Everyone dress up in pink and blue! I fight back with the power of love!
 
+.
+
 I Love Everyone, even you! <3 
 
 I want friend and enemy at the same table.
@@ -28,8 +36,11 @@ A negative approach always leads to a negative result.(=, if you like math)
 
 Please remain calm, and relax a bit. It's going to be oke.
 
+.
 
 Offtopic:
+
+.
 
 - Use fail2ban when hosting ssh servers
 
@@ -45,4 +56,4 @@ $sudo systemctl mask systemd-timesyncd
 
 $sudo iptables -I OUTPUT -p tcp --dport 123 -j DROP
 
-THOSE WHO ARE INNOCENT WALK FREE! I choose to be a good person on this planet.
+- THOSE WHO ARE INNOCENT WALK FREE! I choose to be a good person on this planet.
