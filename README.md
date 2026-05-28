@@ -6,9 +6,9 @@
 
 - DEDICATED TO PEOPLE LIVING WITH ANXIETY -> see Instagram: Sprokkel78b
 
-- Bart Janssen. 11/03/1978. Belgium. I'm on IRC libera. channel #linux. Nickname sprokkel. I'm waiting ...
+- My name is Bart Janssen. 11/03/1978. Belgium. I'm on IRC libera. channel #linux. Nickname sprokkel.
 
-- Keep in mind, thanks to my diagnose i still feel like a child even tho i'm 48. I'm scared of grown-ups.
+- Keep in mind, thanks to my status i still feel like a child even tho i'm 48. I'm scared of grown-ups.
 
 - Sia: Queen / Sia: Unstoppable.
 
