@@ -31,10 +31,10 @@ Please remain calm, and relax a bit. It's going to be oke.
 
 
 
-'''
 Offtopic:
+
 Use fail2ban when hosting ssh servers
-'''
+
 Disable your NTP services, they expose you on the internet.
 
 sudo systemctl stop systemd-timesyncd
