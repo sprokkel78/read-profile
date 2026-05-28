@@ -18,7 +18,6 @@ Github-LOG
 
 .
 
-```
 2026/05 - I made my identity public. Let's see what happens next.
 
 2026/05 - I haven't done a single crime in 48 years on this planet. My crime record is empty. So are my traffic infractions. THOSE WHO ARE INNOCENT WALK FREE! I grow one weed-plant for medicinal uses. It's an F1 Hybrid. It's allowed by my doctor.
@@ -32,7 +31,7 @@ Github-LOG
 2026/05 - I use Apple Hardware with Asahi Linux. Wish I could buy Mac Studio Pro Hardware, mine is a mini.
 
 2026/05 - Locked out of Instagram Account sprokkel78b. Bye Instagram! Bye social media! Ask Instagram to give me my account back. Everyone dress up in pink and blue! I fight back with the power of love!
-```
+
 .
 
 ```
