@@ -18,6 +18,7 @@ Github-LOG
 
 .
 
+```
 2026/05 - I made my identity public. Let's see what happens next.
 
 2026/05 - I haven't done a single crime in 48 years on this planet. My crime record is empty. So are my traffic infractions. THOSE WHO ARE INNOCENT WALK FREE! I grow one weed-plant for medicinal uses. It's an F1 Hybrid. It's allowed by my doctor.
@@ -31,9 +32,10 @@ Github-LOG
 2026/05 - I use Apple Hardware with Asahi Linux. Wish I could buy Mac Studio Pro Hardware, mine is a mini.
 
 2026/05 - Locked out of Instagram Account sprokkel78b. Bye Instagram! Bye social media! Ask Instagram to give me my account back. Everyone dress up in pink and blue! I fight back with the power of love!
-
+```
 .
 
+```
 I Love Everyone, even you! <3 
 
 I want friend and enemy at the same table.
@@ -41,6 +43,7 @@ I want friend and enemy at the same table.
 A negative approach always leads to a negative result.(=, if you like math)
 
 Please remain calm, and relax a bit. It's going to be oke.
+```
 
 .
 
@@ -52,16 +55,19 @@ Offtopic Network Security:
 
 - Disable your NTP services, they expose you on the internet.
 
+```
 $sudo systemctl stop systemd-timesyncd
 
 $sudo systemctl disable systemd-timesyncd
 
 $sudo systemctl mask systemd-timesyncd
+```
 
 - Disable outgoing NTP traffic on the vpn gateway
 
+```
 $sudo iptables -I OUTPUT -p tcp --dport 123 -j DROP
-
+```
 .
 
 THOSE WHO ARE INNOCENT WALK FREE! I choose to be a good person on this planet.
