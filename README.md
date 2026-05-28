@@ -42,3 +42,9 @@ sudo systemctl stop systemd-timesyncd
 sudo systemctl disable systemd-timesyncd
 
 sudo systemctl mask systemd-timesyncd
+
+
+Disable outgoing NTP traffic on the vpn gateway
+
+sudo iptables -I OUTPUT -p tcp --dport 123 -j DROP
+
