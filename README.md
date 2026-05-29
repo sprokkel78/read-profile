@@ -30,7 +30,9 @@ Github-LOG
 
 2026/05 - I use Apple Hardware with Asahi Linux. Wish I could buy Mac Studio Pro Hardware, mine is a mini.
 
-2026/05 - Locked out of Instagram Account sprokkel78b. Bye Instagram! Bye social media! Ask Instagram to give me my account back. Everyone dress up in pink and blue! I fight back with the power of love!
+2026/05 - Locked out of Instagram Account sprokkel78b. Ask Instagram to give me my account back. 
+
+2026/05 - Everyone dress up in pink and blue! We fight back with the power of love!
 
 .
 
