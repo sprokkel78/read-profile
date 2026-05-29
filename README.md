@@ -28,6 +28,8 @@ Github-LOG
 
 .
 
+2026/05 - Instagram offers me to download my account from instagram but the link I got is not working.
+
 2026/05 - I got a perma ban from instagram for not following the guideline rules although I don't understand what I've done wrong. The only option I have is going to court. Any lawyers interested in a case like this?
 
 2026/05 - I made my identity public. I had to come forward. I never sold my computer. Let's see what happens next.
