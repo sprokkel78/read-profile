@@ -16,9 +16,11 @@
 For those who do not know, I had this instagram account dedicated to people living with anxiety.
 It got banned by instagram for not following guideline rules although I never did anything wrong.
 Now I'm blocked from instagram. But don't worry, I have all the pictures and I'm continueing my
-posts here: https://www.github.com/sprokkel78/social-anxiety. It's a work in progress getting 
-everything back online.
+posts here:
 ```
+- https://www.github.com/sprokkel78/social-anxiety. 
+
+It's a work in progress getting everything back online.
 
 .
 
