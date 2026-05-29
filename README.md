@@ -10,7 +10,7 @@
 
 - Keep in mind, thanks to my status i still feel like a child even tho i'm 48. I'm scared of grown-ups.
 
-- Sia: Queen / Sia: Unstoppable.
+- Sia: Queen / Sia: Unstoppable / Trippy Tapes FM.
 
 .
 
