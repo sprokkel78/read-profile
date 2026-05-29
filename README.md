@@ -73,6 +73,10 @@ $sudo iptables -I OUTPUT -p tcp --dport 123 -j DROP
 ```
 .
 
+For more information about network security visit: https://github.com/sprokkel78/secure-network-architecture
+
+.
+
 THOSE WHO ARE INNOCENT WALK FREE! I choose to be a good person on this planet.
 
 .
