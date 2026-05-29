@@ -4,7 +4,7 @@
 
 .
 
-- DEDICATED TO PEOPLE LIVING WITH ANXIETY -> see Instagram: Sprokkel78b
+- DEDICATED TO PEOPLE LIVING WITH ANXIETY -> see Instagram: Sprokkel78b (BANNED)
 
 - My name is Bart Janssen. 11/03/1978. Belgium. I'm on IRC libera. channel #linux. Nickname sprokkel.
 
