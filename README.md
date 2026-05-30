@@ -29,6 +29,8 @@ Github-LOG
 .
 
 
+2026/05 - I'm using https://duckduckgo.com as search engine.
+
 2026/05 - It's about to get summer here! :)
 
 2026/05 - I got the download, nvm.
