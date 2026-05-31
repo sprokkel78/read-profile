@@ -31,7 +31,7 @@ Github-LOG
 
 2026/05 - Don't use your ISP dns server. Use Google 8.8.8.8 and 8.8.4.4 or One 1.1.1.1 and 1.0.0.1 or Quad9.
 
-2026/05 - Use https://imdb.com for information about movies & series. https://tpb.party for downloads.
+2026/05 - Use https://imdb.com for information about movies & series. https://tpb.party for downloads. I use VLC as video player. I really like it.
 
 2026/05 - I'm using https://duckduckgo.com as search engine.
 
