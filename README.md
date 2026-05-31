@@ -100,9 +100,10 @@ For more information about settings up an automated linux vpn gateway visit: htt
 
 .
 
-Usefull Links:
+Usefull Links: (one plant is legal)
 
 https://www.royalqueenseeds.com
+
 https://www.growland.nl
 
 .
