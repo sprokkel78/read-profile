@@ -29,7 +29,7 @@ Github-LOG
 .
 
 
-2026/05 - Use https://imdb.com for information about movies & series.
+2026/05 - Use https://imdb.com for information about movies & series. https://tpb.party for downloads.
 
 2026/05 - I'm using https://duckduckgo.com as search engine.
 
