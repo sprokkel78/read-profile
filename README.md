@@ -100,6 +100,13 @@ For more information about settings up an automated linux vpn gateway visit: htt
 
 .
 
+Usefull Links:
+
+https://www.royalqueenseeds.com
+https://www.growland.nl
+
+.
+
 THOSE WHO ARE INNOCENT WALK FREE! I choose to be a good person on this planet.
 
 .
