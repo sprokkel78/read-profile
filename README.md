@@ -94,6 +94,8 @@ $sudo iptables -I OUTPUT -p tcp --dport 123 -j DROP
 
 For more information about network security visit: https://github.com/sprokkel78/secure-network-architecture
 
+For more information about settings up an automated linux vpn gateway visit: https://github.com/sprokkel78/nordvpn-gateway.scripts
+
 .
 
 THOSE WHO ARE INNOCENT WALK FREE! I choose to be a good person on this planet.
